@@ -1,6 +1,7 @@
 body {
   font-family: Courier;
   margin-left: 2em;
+  font-variant-ligatures: no-common-ligatures;
 }
 
 li {
