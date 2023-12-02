@@ -3,6 +3,12 @@
   src: url(fonts/BerkeleyMono-Regular.woff2);
 }
 
+@font-face {
+  font-family: BerkeleyMono;
+  src: url(fonts/BerkeleyMono-Bold.woff2);
+  font-weight: bold;
+}
+
 body {
   font-family: BerkeleyMono, Courier, monospace;
   margin-left: 2em;
