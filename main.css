@@ -1,7 +1,12 @@
+@font-face {
+  font-family: BerkeleyMono;
+  src: url(fonts/BerkeleyMono-Regular.woff2);
+}
+
 body {
-  font-family: Courier, monospace;
+  font-family: BerkeleyMono, Courier, monospace;
   margin-left: 2em;
-  font-variant-ligatures: no-common-ligatures;
+  margin-right: 2em;
 }
 
 li {
