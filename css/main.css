@@ -1,0 +1,14 @@
+@font-face {
+  font-family: BerkeleyMono;
+  src: url(../fonts/BerkeleyMono-Regular.woff2);
+}
+
+@font-face {
+  font-family: BerkeleyMono;
+  src: url(../fonts/BerkeleyMono-Bold.woff2);
+  font-weight: bold;
+}
+
+:root {
+  --pico-font-family: BerkeleyMono, Courier, monospace;
+}
