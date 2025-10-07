@@ -25,6 +25,7 @@ li {
   font-size: 1.1em;
   /* fix tiny vertical gap between the ╠ symbols */
   margin-bottom: -0.03em;
+  margin-top: -0.03em;
   padding-left: 0.6em;
 }
 
